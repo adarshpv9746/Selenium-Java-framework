@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="1" total="2" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="tesla build verification tests" duration-ms="20167" started-at="2022-12-06T14:51:21 IST" finished-at="2022-12-06T14:51:41 IST">
+    <groups>
+    </groups>
+    <test name="Verify Safety Text" duration-ms="20167" started-at="2022-12-06T14:51:21 IST" finished-at="2022-12-06T14:51:41 IST">
+      <class name="com.qburst.testing.automationcore.testng.TeslaTest">
+        <test-method status="PASS" signature="beforeSuite(java.lang.String,java.lang.String)[pri:0, instance:com.qburst.testing.automationcore.testng.TeslaTest@6c3708b3]" name="beforeSuite" is-config="true" duration-ms="17" started-at="2022-12-06T14:51:21 IST" finished-at="2022-12-06T14:51:21 IST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[web]]>
+              </value>
+            </param>
+            <param index="1">
+              <value is-null="true"/>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeSuite -->
+        <test-method status="PASS" signature="beforeTest(java.lang.String,java.lang.String)[pri:0, instance:com.qburst.testing.automationcore.testng.TeslaTest@6c3708b3]" name="beforeTest" is-config="true" duration-ms="0" started-at="2022-12-06T14:51:21 IST" finished-at="2022-12-06T14:51:21 IST">
+          <params>
+            <param index="0">
+              <value is-null="true"/>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeTest -->
+        <test-method status="PASS" signature="beforeMethod()[pri:0, instance:com.qburst.testing.automationcore.testng.TeslaTest@6c3708b3]" name="beforeMethod" is-config="true" duration-ms="1027" started-at="2022-12-06T14:51:21 IST" finished-at="2022-12-06T14:51:22 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method status="PASS" signature="vefifySafteyText()[pri:0, instance:com.qburst.testing.automationcore.testng.TeslaTest@6c3708b3]" name="vefifySafteyText" duration-ms="18646" started-at="2022-12-06T14:51:22 IST" description="Safety Text Verification on product description page" finished-at="2022-12-06T14:51:40 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- vefifySafteyText -->
+        <test-method status="PASS" signature="afterMethod()[pri:0, instance:com.qburst.testing.automationcore.testng.TeslaTest@6c3708b3]" name="afterMethod" is-config="true" duration-ms="104" started-at="2022-12-06T14:51:41 IST" finished-at="2022-12-06T14:51:41 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.qburst.testing.automationcore.testng.TeslaTest@6c3708b3]" name="tearDown" is-config="true" duration-ms="0" started-at="2022-12-06T14:51:41 IST" finished-at="2022-12-06T14:51:41 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.qburst.testing.automationcore.testng.TeslaTest -->
+    </test> <!-- Verify Safety Text -->
+  </suite> <!-- tesla build verification tests -->
+</testng-results>

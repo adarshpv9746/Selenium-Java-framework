@@ -1,0 +1,7 @@
+[33;1m[WARN ] 2022-12-14 15:59:13.496 [main] Config - Default test configuration initialization. TestNG suite xml parameters will override this configuration
+[m[34m[INFO ] 2022-12-14 15:59:13.500 [main] Config - testconfig.properties found in test resources. Initializing test config parameters as System Properties
+[m[34m[INFO ] 2022-12-14 15:59:13.528 [main] ChromeBrowserDriver - Opening chrome browser
+[m[34m[INFO ] 2022-12-14 15:59:14.948 [main] ParentDriver - Navigate to application url : https://tesla.com
+[m[32;1m[DEBUG] 2022-12-14 15:59:17.501 [main] ExtentReport - Navigate to the application url: https://tesla.com
+[m[32;1m[DEBUG] 2022-12-14 15:59:20.319 [main] ExtentReport - Select Model 3 from the list
+[m
